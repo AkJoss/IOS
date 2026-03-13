@@ -1,0 +1,6 @@
+*.docx echo test/
+*.docx echo test/
+.DS_Store
+*.docx
+.DS_Store
+test/
